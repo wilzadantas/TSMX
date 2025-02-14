@@ -23,7 +23,7 @@ pip install psycopg2 pandas numpy
 
 ### 3️⃣ Configuração do Banco de Dados  
 1. Instale o **PostgreSQL 17.2** e crie um banco de dados chamado **TSMX**.  
-2. Restaure o backup incluído no projeto (**TSMX.backup**).  
+2. Restaure o backup incluído no projeto (**TSMX.sql**).  
 3. No código, atualize as credenciais de conexão com o banco de dados na linha onde está **"db_conexao"**.  
 
 ---
